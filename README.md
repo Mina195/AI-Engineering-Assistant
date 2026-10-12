@@ -59,7 +59,6 @@ AI-Engineering-Assistant/
 ├── test_api.py
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 └── .env.example
 ```
 
